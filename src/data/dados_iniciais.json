@@ -10,12 +10,12 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Programador Fullstack ou Front/back especialista: o que analisar na hora de decidir e aprender",
+          "url": "https://www.youtube.com/watch?v=nNpOmiRlM4Y"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
@@ -40,7 +40,11 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        },
+        {
+          "titulo": "Organize os imports da sua aplicação React com o Module Alias",
+          "url": "youtube.com/watch?v=4aaVrpXwlSs"
+        }   
       ]
     },
     {
